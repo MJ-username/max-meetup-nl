@@ -26,6 +26,7 @@ The NL Max Community repository. This repository includes a collection of patche
 - [Massimiliano Cerioni](https://soundcloud.com/massimiliano-cerioni)
 - [Diogo Carriço](http://www.diogocarrico.co)
 - [Lars Bijleveld](https://soundcloud.com/larsbijleveld)
+- MartinJan Gaasbeek
 - *...you? [edit this readme and join our meetup! ^^](#contribute)*
 
 ## Interesting sites
